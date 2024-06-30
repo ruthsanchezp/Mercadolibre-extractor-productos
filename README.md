@@ -26,4 +26,4 @@ El crawler está diseñado para:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/mercado-libre-crawler.git
+   git clone https://github.com/ruthsanchezp/mercadolibre-extractor-productos.git
