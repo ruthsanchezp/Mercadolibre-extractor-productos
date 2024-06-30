@@ -2,7 +2,6 @@
 
 Este proyecto utiliza Scrapy para rastrear artículos en la categoría de perros en Mercado Libre Ecuador. Es un ejemplo, pero se puede implementar para cualquier producto/país. 
 
-
 ## Descripción
 
 El crawler está diseñado para:
